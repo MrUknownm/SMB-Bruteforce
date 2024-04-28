@@ -21,4 +21,9 @@ This tool is created and shared for educational purposes only. It should only be
 ## Credits
 This tool is created by MeUnkknown for educational purposes.
 
+
+## Images
+
 ![image](https://github.com/MrUknownm/SMB-Bruteforce/assets/168353967/2039100e-97c4-4ceb-adf8-0c4058790499)
+![image](https://github.com/MrUknownm/SMB-Bruteforce/assets/168353967/aa924a23-e0c9-429a-bc57-54452a5d86d6)
+
